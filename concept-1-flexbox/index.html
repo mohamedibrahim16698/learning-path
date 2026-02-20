@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Build a Navbar</title>
+    <style>
+      nav {
+        display: flex;
+        justify-content: space-between;
+      }
+
+      nav .logo {
+        margin-left: 20px;
+      }
+
+      nav a {
+        text-decoration: none;
+        color: #000;
+        margin-right: 20px;
+      }
+
+      nav a:hover {
+        background-color: red;
+        color: white;
+      }
+
+      @media (max-width: 768px) {
+        .nav {
+          flex-direction: column;
+          align-items: center;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <nav>
+      <div class="logo">
+        <a href="#">My Logo</a>
+      </div>
+      <div class="links">
+        <a href="#">Home</a>
+        <a href="#">About</a>
+        <a href="#">Contact</a>
+      </div>
+    </nav>
+  </body>
+</html>
