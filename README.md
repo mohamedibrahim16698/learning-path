@@ -10,7 +10,7 @@ React + Next.js + TypeScript + Tailwind CSS
 
 ### Phase 1: Core Foundations
 - [x] Concept 1: Flexbox ✅
-- [ ] Concept 2: CSS Grid
+- [x] Concept 2: CSS Grid ✅
 - [ ] Concept 3: Responsive Design
 - [ ] Project 1: Responsive Landing Page
 
@@ -60,7 +60,7 @@ React + Next.js + TypeScript + Tailwind CSS
 - [ ] Interview Prep
 
 ## 📍 Current Position
-**Phase 1 - Concept 2: CSS Grid**
+**Phase 1 - Concept 3: Responsive Design**
 
 ## 📅 Started: 2026-02-20
 
